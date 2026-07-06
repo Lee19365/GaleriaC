@@ -1,1 +1,2 @@
 # GaleriaC
+npm install
